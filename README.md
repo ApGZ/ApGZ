@@ -1,6 +1,6 @@
 ## 💫 About me
 
-🎓 AD Cyber Security graduate from the Amsterdam University of Applied Sciences (HvA)
+'-'🎓 AD Cyber Security graduate from the Amsterdam University of Applied Sciences (HvA)
 
 🔐 Passionate about penetration testing, web application security, digital forensics, and secure software development
 
